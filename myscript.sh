@@ -1,3 +1,2 @@
 #Download a fastq from sra
-
-#try
+#fastq-dump --split-files SRR390728
