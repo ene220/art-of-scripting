@@ -1,2 +1,2 @@
-#module load anaconda
-deleted github repo 
+#module load anaconda 
+conda activate biostars OR conda activate rnaseq
